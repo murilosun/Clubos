@@ -1,0 +1,10 @@
+{
+  "name": "ClubOS by Car Club",
+  "short_name": "ClubOS",
+  "description": "Gestão completa para estética automotiva",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "orientation": "portrait-primary"
+}
